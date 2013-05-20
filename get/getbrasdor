@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# Script to make scp'ing easier
+
+scp -r boates@brasdor.ace-net.ca:$1 $2

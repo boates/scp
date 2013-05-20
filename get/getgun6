@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# Script to make scp'ing easier
+
+scp -r boates@gun6.sjc1c.square:$1 $2

@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# Script to make scp'ing easier
+
+scp -r $1 boates@orcinus.westgrid.ca:$2
