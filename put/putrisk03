@@ -1,0 +1,5 @@
+#!/bin/bash
+
+# Script to make scp'ing easier
+
+scp -r $1 boates@risk03.mtv.squareup.com:$2
